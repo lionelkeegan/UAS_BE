@@ -1,4 +1,6 @@
-// TODO 2: SETUP ROUTING (ROUTER)
+/**
+ * TODO 2: SETUP ROUTING (ROUTER)
+ */
 
 //import controller Patient
 const PatientController = require("../controllers/PatientsController")
