@@ -1,4 +1,7 @@
-// TODO 4: SETUP CONTROLLER
+/**
+ * TODO 4: SETUP CONTROLLER
+ */
+
 //import model patiens
 const covid = require("../models/Patient")
 
