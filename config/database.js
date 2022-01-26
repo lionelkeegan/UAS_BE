@@ -1,4 +1,7 @@
-// TODO 3: SETUP CONFIG DATABASE
+/**
+ * TODO 3: SETUP CONFIG DATABASE
+ */
+
 //Import mysql
 const mysql = require("mysql")
 
