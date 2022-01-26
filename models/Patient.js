@@ -1,4 +1,7 @@
-// TODO 5: SETUP MODEL
+/**
+ * TODO 5: SETUP MODEL
+ */
+
 //import db
 const res = require("express/lib/response")
 const db = require("../config/database")
